@@ -1,0 +1,7 @@
+body { background: #111; color: #f5f5f5; margin:0; font-family: 'Inter', sans-serif; }
+
+::-webkit-scrollbar {height: 8px; width: 8px;background: #181818;}
+::-webkit-scrollbar-thumb {background: #222;border-radius: 4px;}
+
+div[style*='grid'] img { box-shadow:0 1px 12px #0002; border-radius:8px; }
+div[style*='grid'] img:hover { outline:2px solid #2196f3; }
